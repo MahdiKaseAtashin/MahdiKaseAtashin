@@ -1,4 +1,4 @@
-[![MasterHead](https://raw.githubusercontent.com/flutterboy20/flutterboy20/main/banner.png)]
+![MasterHead](https://raw.githubusercontent.com/flutterboy20/flutterboy20/main/banner.png)
 
 ### Hi Im Mahdi 👋
 
