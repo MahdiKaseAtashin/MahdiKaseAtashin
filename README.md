@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: mahdikaseatashin@gmail.com
 
-- ⚡ Fun fact: Fun fact You can spell World Wide Web faster than WWW
+- ⚡ Fun fact: You can spell World Wide Web faster than WWW
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.instagram.com/mahdi__k3f/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahdi__k3f" height="30" width="40" /></a><a href="http://t.me/mahdi_k3f/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="mahdi__k3f" height="30" width="40" /></a><a href="https://wa.me/+989025648561/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mahdi__k3f" height="30" width="40" /></a><a href="https://twitter.com/Mahdi_K3F" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahdi__k3f" height="30" width="40" /></a><a href="https://join.skype.com/invite/k8JCbYpbpk9W" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/skype.svg" alt="mahdi__k3f" height="30" width="40" /></a>
