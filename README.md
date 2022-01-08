@@ -1,8 +1,7 @@
 ![MasterHead](https://github.com/MahdiKaseAtashin/MahdiKaseAtashin/blob/main/banner.png)
 
-### Hi Im Mahdi 👋
-
-A Passionate Flutter Developer!
+<h1 align="center">Hi 👋, I'm Mahdi</h1>
+<h3 align="center">A Passionate Flutter Developer!</h3>
 
 - 🌱 I’m currently learning Flutter
 - 💬 Ask me about Android
