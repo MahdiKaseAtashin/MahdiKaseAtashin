@@ -1,7 +1,7 @@
 [![MasterHead](https://github.com/MahdiKaseAtashin/MahdiKaseAtashin/blob/main/banner.png)](https://www.instagram.com/mahdi__k3f/)
 
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
-<h3 align="center">A Passionate Flutter Developer!</h3>
+<h3 align="center">A Motivated Flutter Developer!</h3>
 
 <!--  profile views!-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiKaseAtashin&label=Profile%20views&color=0e75b6&style=flat" alt="Mahdi" /> </p> -->
@@ -11,9 +11,7 @@
 - 💬 Ask me about Flutter,Kotlin
 
 - 📫 How to reach me: mahdikaseatashin@gmail.com
-
-- 😄 Pronouns: K3
-
+- 
 - ⚡ Fun fact: Fun fact You can spell World Wide Web faster than WWW
 <h3 align="left">Connect with me:</h3>
 <p align="left">
