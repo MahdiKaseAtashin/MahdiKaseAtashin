@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Mahdi</h1>
 <h3 align="center">A Motivated Flutter Developer!</h3>
-
-
+</br>
 
 <!--  profile views!-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiKaseAtashin&label=Profile%20views&color=0e75b6&style=flat" alt="Mahdi" /> </p> -->
