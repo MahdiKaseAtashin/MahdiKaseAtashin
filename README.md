@@ -5,7 +5,7 @@
 
 <!--  profile views!-->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=MahdiKaseAtashin&label=Profile%20views&color=0e75b6&style=flat" alt="Mahdi" /> </p> -->
-<img border-radius: 50% align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img border-radius: "50%" align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 - 🌱 I’m currently learning Flutter
 
 - 💬 Ask me about Flutter,Kotlin
