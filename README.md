@@ -4,7 +4,7 @@
 <h3 align="center">A Passionate Flutter Developer!</h3>
 
 - 🌱 I’m currently learning Flutter
-- 💬 Ask me about Android
+- 💬 Ask me about Flutter,Kotlin
 - 📫 How to reach me: mahdikaseatashin@gmail.com
 - 😄 Pronouns: K3
 - ⚡ Fun fact: Fun fact You can spell World Wide Web faster than WWW
